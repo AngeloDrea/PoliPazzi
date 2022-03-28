@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @PoliPazzi
-- 🌱 Maintaining a good mood since yesterday
-- 💞️ Luv you
+
 - 📫 Unimib - Computer Science
 
 <!---
